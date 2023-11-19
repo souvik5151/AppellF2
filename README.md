@@ -11,3 +11,6 @@ The package ***AppellF2*** can be called as using the *Get* command of *Mathemat
 ```
 <<AppellF2.wl
 ```
+
+
+This repository contains the package ***AppellF2.wl*** and a demonstration notebook ***AppellF2_demo.nb***.
