@@ -6,7 +6,7 @@ A *Mathematica* package to find the numerical value of the Appell F_2 function f
 
 
 
-The package ***AppellF2*** can be called as using the *Get* command of *Mathematica* as
+The package ***AppellF2*** can be called using the *Get* command of *Mathematica* as
 
 ```
 <<AppellF2.wl
